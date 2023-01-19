@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass sass:css --watch"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jesusnauta/2020301-W1Ch4-Jes-s-Enrique-.git",
-    "sass": "sass sass:css --watch"
+    "url": "git+https://github.com/Jesusnauta/2020301-W1Ch4-Jes-s-Enrique-.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
