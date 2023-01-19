@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif, Arial;
+}
+
+header > div {
+  display: flex;
+  justify-content: flex-start;
+  background-color: white;
+}
+
+.home {
+  justify-content: flex-start;
+}
+
+.live {
+  justify-content: flex-end;
+}
+
+/*# sourceMappingURL=style.css.map */
