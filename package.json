@@ -1,0 +1,23 @@
+{
+  "name": "day4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesusnauta/2020301-W1Ch4-Jes-s-Enrique-.git",
+    "sass": "sass sass:css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesusnauta/2020301-W1Ch4-Jes-s-Enrique-/issues"
+  },
+  "homepage": "https://github.com/Jesusnauta/2020301-W1Ch4-Jes-s-Enrique-#readme",
+  "dependencies": {
+    "sass": "^1.57.1"
+  }
+}
